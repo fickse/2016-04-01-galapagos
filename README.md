@@ -1,3 +1,5 @@
+http://fickse.github.io/2016-04-01-galapagos/
+
 # workshop-template
 
 This repository is [Software Carpentry](http://software-carpentry.org)'s
